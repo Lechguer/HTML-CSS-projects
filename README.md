@@ -1,10 +1,10 @@
 # 🌐 Web Projects — Landing Pages & Websites
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║   H T M L  ·  C S S  ·  J A V A S C R I P T            ║
-║   Crafted with pixels, passion & a bit of madness 🎨     ║
-╚══════════════════════════════════════════════════════════╝
+                      ╔══════════════════════════════════════════════════════════╗
+                      ║   H T M L  ·  C S S  ·  J A V A S C R I P T              ║
+                      ║   Crafted with pixels, passion & a bit of madness        ║
+                      ╚══════════════════════════════════════════════════════════╝
 ```
 
 > *"A great landing page doesn't just load — it lands."*
@@ -22,11 +22,11 @@ Each project is a standalone experience: responsive, interactive, and designed t
 ## ✦ Tech Stack
 
 ```
-┌─────────────────────────────────┐
-│  🧱  HTML5     → Structure      │
-│  🎨  CSS3      → Style & Soul   │
-│  ⚡  JavaScript → Life & Motion │
-└─────────────────────────────────┘
+                                        ┌──────────────────────────────────┐
+                                        │    HTML5    → Structure          │
+                                        │    CSS3     → Style & Soul       │
+                                        │    JavaScript → Life & Motion    │
+                                        └──────────────────────────────────┘
 ```
 
 ---
@@ -54,7 +54,7 @@ Each project is a standalone experience: responsive, interactive, and designed t
 
 Built by **ZAKARIA** — a web developer who believes the browser is a canvas.
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=flat-square&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=flat-square&logo=github)](https://github.com/Lechguer)
 
 ---
 
