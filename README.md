@@ -35,8 +35,8 @@ Each project is a standalone experience: responsive, interactive, and designed t
 
 | # | Project | Description | Live |
 |---|---------|-------------|------|
-| 01 | `Login page` | Short catchy description here | [→ View]([https://yourlink.com](https://github.com/Lechguer/HTML-CSS-projects/tree/main/Login%20page)) |
-| 02 | `page` | Short catchy description here | [→ View]([https://yourlink.com](https://github.com/Lechguer/HTML-CSS-projects/tree/main/page)) |
+| 01 | `Login page` | Short catchy description here | [→ View]((https://github.com/Lechguer/HTML-CSS-projects/tree/main/Login%20page)) |
+| 02 | `page` | Short catchy description here | [→ View]((https://github.com/Lechguer/HTML-CSS-projects/tree/main/page)) |
 
 ---
 
@@ -54,7 +54,7 @@ Each project is a standalone experience: responsive, interactive, and designed t
 
 Built by **ZAKARIA** — a web developer who believes the browser is a canvas.
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=flat-square&logo=github)](https://github.com/Lechguer)
+[![GitHub](https://img.shields.io/badge/GitHub-Zakaria-181717?style=flat-square&logo=github)](https://github.com/Lechguer)
 
 ---
 
