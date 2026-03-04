@@ -33,10 +33,10 @@ Each project is a standalone experience: responsive, interactive, and designed t
 
 ## 🗂️ Projects
 
-| # | Project | Description | Live |
+| # | Project | Description | Link |
 |---|---------|-------------|------|
-| 01 | `Login page` | Short catchy description here | [→ View]((https://github.com/Lechguer/HTML-CSS-projects/tree/main/Login%20page)) |
-| 02 | `page` | Short catchy description here | [→ View]((https://github.com/Lechguer/HTML-CSS-projects/tree/main/page)) |
+| 01 | `Login Page` | A sleek, fully styled login UI — smooth form interactions, background imagery, and clean JS validation. The kind of login screen users actually *enjoy* seeing. | [→ View](https://github.com/Lechguer/HTML-CSS-projects/tree/main/Login%20page) |
+| 02 | `Page` | A pure HTML & CSS web page experiment — no JS, no noise. Just deliberate layout, custom styling, and proof that great design needs zero dependencies. | [→ View](https://github.com/Lechguer/HTML-CSS-projects/tree/main/page) |
 
 ---
 
